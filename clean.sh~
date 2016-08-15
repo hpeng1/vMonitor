@@ -1,0 +1,2 @@
+rm -rf cmd_logs.txt
+rm -rf hadoop-files/*.txt
